@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn imbalanced-learn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smoking-prediction.git
+   git clone https://github.com/ammaremad/smoking-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
